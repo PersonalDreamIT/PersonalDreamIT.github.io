@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SXS-个人博客</title>
+  <icon>https://personaldreamit.github.io/icon.png</icon>
+  <subtitle>积跬步以至千里！</subtitle>
+  <link href="https://personaldreamit.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://personaldreamit.github.io/"/>
+  <updated>2023-02-01T16:26:52.184Z</updated>
+  <id>https://personaldreamit.github.io/</id>
+  
+  <author>
+    <name>显顺</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test1</title>
+    <link href="https://personaldreamit.github.io/2023/02/01/test1/"/>
+    <id>https://personaldreamit.github.io/2023/02/01/test1/</id>
+    <published>2023-02-01T15:47:27.000Z</published>
+    <updated>2023-02-01T16:26:52.184Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>命令部署OpenStack-Train版-两个节点</title>
+    <link href="https://personaldreamit.github.io/2023/02/01/%E5%91%BD%E4%BB%A4%E9%83%A8%E7%BD%B2OpenStack-Train%E7%89%88-%E4%B8%A4%E4%B8%AA%E8%8A%82%E7%82%B9/"/>
+    <id>https://personaldreamit.github.io/2023/02/01/%E5%91%BD%E4%BB%A4%E9%83%A8%E7%BD%B2OpenStack-Train%E7%89%88-%E4%B8%A4%E4%B8%AA%E8%8A%82%E7%82%B9/</id>
+    <published>2023-02-01T15:20:59.000Z</published>
+    <updated>2023-02-01T16:26:30.612Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;OpenStack-Train版在线命令部署【简化版】&quot;&gt;&lt;a href=&quot;#OpenStack-Train版在线命令部署【简化版】&quot; class=&quot;headerlink&quot; title=&quot;OpenStack Train版在线命令部署【简化版】&quot;&gt;&lt;/a&gt;OpenStack Train版在线命令部署【简化版】&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;MariaDB&lt;/p&gt;
+&lt;p&gt;RabbitMQ&lt;/p&gt;
+&lt;p&gt;Memcached&lt;/p&gt;
+&lt;p&gt;Etcd&lt;/p&gt;
+&lt;p&gt;keystone&lt;/p&gt;
+&lt;p&gt;glance&lt;/p&gt;
+&lt;p&gt;nova &lt;/p&gt;
+&lt;p&gt;placement&lt;/p&gt;
+&lt;p&gt;neutron&lt;/p&gt;
+&lt;p&gt;以上组件部署完成，即完成了最小化部署。&lt;/p&gt;
+&lt;p&gt;horizon&lt;/p&gt;
+&lt;p&gt;cinder&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;hostname&lt;/th&gt;
+&lt;th&gt;systemctl&lt;/th&gt;
+&lt;th&gt;host resource&lt;/th&gt;
+&lt;th&gt;ip&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;controller&lt;/td&gt;
+&lt;td&gt;centos7.6&lt;/td&gt;
+&lt;td&gt;4C8G&lt;/td&gt;
+&lt;td&gt;ens32 172.16.80.11     ens33 NONE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;compute&lt;/td&gt;
+&lt;td&gt;centos7.6&lt;/td&gt;
+&lt;td&gt;4C8G&lt;/td&gt;
+&lt;td&gt;ens32 172.16.80.12     ens33 NONE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="云计算" scheme="https://personaldreamit.github.io/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    
+    
+    <category term="OpenStack" scheme="https://personaldreamit.github.io/tags/OpenStack/"/>
+    
+    <category term="云计算大赛" scheme="https://personaldreamit.github.io/tags/%E4%BA%91%E8%AE%A1%E7%AE%97%E5%A4%A7%E8%B5%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Test7</title>
+    <link href="https://personaldreamit.github.io/2023/02/01/Test7/"/>
+    <id>https://personaldreamit.github.io/2023/02/01/Test7/</id>
+    <published>2023-02-01T15:10:29.000Z</published>
+    <updated>2023-02-01T16:26:52.184Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="C" scheme="https://personaldreamit.github.io/categories/C/"/>
+    
+    
+    <category term="计算器" scheme="https://personaldreamit.github.io/tags/%E8%AE%A1%E7%AE%97%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Test6</title>
+    <link href="https://personaldreamit.github.io/2023/02/01/Test6/"/>
+    <id>https://personaldreamit.github.io/2023/02/01/Test6/</id>
+    <published>2023-02-01T15:01:36.000Z</published>
+    <updated>2023-02-01T15:57:17.610Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://personaldreamit.github.io/categories/Python/"/>
+    
+    <category term="Java" scheme="https://personaldreamit.github.io/categories/Python/Java/"/>
+    
+    
+    <category term="Django" scheme="https://personaldreamit.github.io/tags/Django/"/>
+    
+    <category term="Flask" scheme="https://personaldreamit.github.io/tags/Flask/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://personaldreamit.github.io/2023/02/01/hello-world/"/>
+    <id>https://personaldreamit.github.io/2023/02/01/hello-world/</id>
+    <published>2023-02-01T06:51:48.889Z</published>
+    <updated>2023-02-01T17:01:24.511Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
