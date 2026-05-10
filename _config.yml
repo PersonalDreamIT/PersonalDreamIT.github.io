@@ -1,0 +1,83 @@
+# Hexo source reconstructed from the generated GitHub Pages output.
+title: SXS-个人博客
+subtitle: 积跬步以至千里！
+description: 显顺的个人博客,一些IT学习随笔
+keywords: Java开发与运维
+author: 显顺
+language: zh-CN
+timezone: Asia/Shanghai
+
+url: https://personaldreamit.github.io
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults: {}
+pretty_urls:
+  trailing_index: true
+  trailing_html: true
+
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render: []
+
+new_post_name: :title.md
+default_layout: post
+titlecase: false
+external_link:
+  enable: true
+  field: site
+  exclude: ''
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+syntax_highlighter: highlight.js
+highlight:
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+prismjs:
+  preprocess: true
+  line_number: true
+  tab_replace: ''
+
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+
+per_page: 10
+pagination_dir: page
+
+# Theme installed from npm. Theme options live in _config.next.yml.
+theme: next
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: true
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: /images/favicon-32x32-next.png
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
+
+# GitHub Pages deployment target. Run `npm run build` first to create ./public.
+deploy:
+  type: git
+  repo: git@github.com:PersonalDreamIT/PersonalDreamIT.github.io.git
+  branch: main
