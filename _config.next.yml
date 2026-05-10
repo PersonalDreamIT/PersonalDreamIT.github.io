@@ -1,0 +1,64 @@
+scheme: Gemini
+favicon:
+  small: /images/favicon-16x16-next.png
+  medium: /images/favicon-32x32-next.png
+  apple_touch_icon: /images/apple-touch-icon-next.png
+  safari_pinned_tab: /images/logo.svg
+
+creative_commons:
+  license: false
+
+menu:
+  home: / || fa fa-home
+  categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
+  archives: /archives/ || fa fa-archive
+  about: /about/ || fa fa-user
+  rss: /atom.xml || fa fa-rss
+
+menu_settings:
+  icons: true
+  badges: true
+
+avatar:
+  url: /images/avatar.gif
+  rounded: false
+  rotated: false
+
+social:
+  GitHub: https://github.com/PersonalDreamIT || fab fa-github
+
+footer:
+  since: 2023
+  icon:
+    name: fa fa-heart
+    animated: false
+    color: '#ff0000'
+  powered: true
+
+motion:
+  enable: true
+  async: false
+
+local_search:
+  enable: true
+  trigger: auto
+  top_n_per_article: 1
+  unescape: false
+  preload: false
+
+mermaid:
+  enable: true
+
+gitalk:
+  enable: false
+  github_id: PersonalDreamIT
+  repo: PersonalDreamIT.github.io
+  client_id: ''
+  client_secret: ''
+  admin_user: PersonalDreamIT
+  distraction_free_mode: true
+  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
+  language: zh-CN
+
+pjax: false
